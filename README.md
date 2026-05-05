@@ -35,3 +35,6 @@ get_propagateurs(lycee): Cette fonction prend en paramètre lycée et renvoie un
 get_ignorants(lycee): Cette fonction prend en paramètre lycée et renvoie une liste avec l'indice des personnes ignorantes. Au début, la fonction renvoie une liste avec les chiffres compris entre 1 et size -1.
 propagation(lycee): Cette fonction prend en paramètre lycée et renvoie une liste avec la propagation faite. Chaque propagateur propage la rumeur à n personnes, soit _ personnes_rencontrees_ sur notre fonction. _ personnes_rencontrees_ est un chiffre aléatoire compris entre 0 et 30. Donc un propagateur peut propager la rumeur à 30 personnes maximum. Cela se justifie car, approximativement, une classe d'élèves dans un lycée en France est composée de 30 élèves.(5).
 nb_jours(lycee): Cette fonction fait la simulation complète du modèle simple. Elle renvoie le nombre de jours nécessaires pour que tout les lycéens de ce lycée connaissent la rumeur.
+
+<img width="723" height="570" alt="Capture d’écran 2026-05-05 à 19 49 40" src="https://github.com/user-attachments/assets/71e9469e-0a20-4bd8-b9df-bc9d7d5ed7e8" />
+
