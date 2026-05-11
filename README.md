@@ -1,4 +1,4 @@
-# propagation-rumeur
+# Projet de modélisation : Propagation d'une rumeur
 
 Propagation d'une rumeur par Iván, Karene et Célia
 
